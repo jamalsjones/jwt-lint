@@ -1,0 +1,13 @@
+{
+  "name": "jwt-lint",
+  "version": "1.0.0",
+  "description": "Check a JWT access token against RFC 7519, RFC 8725 and RFC 9068. Browser page and command-line tool, no dependencies.",
+  "license": "MIT",
+  "author": "Jamal Jones (https://www.jamalsjones.com)",
+  "main": "jwt-lint.js",
+  "bin": { "jwt-lint": "jwt-lint.js" },
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=18" },
+  "repository": { "type": "git", "url": "https://github.com/jamalsjones/jwt-lint" },
+  "keywords": ["jwt", "oauth", "access-token", "rfc9068", "rfc8725", "iam", "security", "lint"]
+}
