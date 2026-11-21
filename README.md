@@ -49,6 +49,7 @@ To host your own copy, turn on GitHub Pages for your fork (Settings â†’ Pages â†
 
 ## Related
 
+- [SAML check](https://github.com/jamalsjones/saml-check): review SAML responses, requests and metadata.
 - [OIDC config check](https://github.com/jamalsjones/oidc-config-check): review what your identity provider advertises.
 - [Leaver check](https://github.com/jamalsjones/leaver-check): find accounts that outlived the people who owned them.
 - [Security games](https://jamalsjones.github.io/security-games/): Token Inspector is a game version of this tool.
