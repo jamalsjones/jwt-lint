@@ -1,5 +1,7 @@
 # JWT lint
 
+[![Tests](https://github.com/jamalsjones/jwt-lint/actions/workflows/test.yml/badge.svg)](https://github.com/jamalsjones/jwt-lint/actions/workflows/test.yml)
+
 Paste an access token and see what an API should reject it for. It checks a JWT against [RFC 7519](https://www.rfc-editor.org/rfc/rfc7519) (JWT), [RFC 8725](https://www.rfc-editor.org/rfc/rfc8725) (JWT best current practices) and [RFC 9068](https://www.rfc-editor.org/rfc/rfc9068) (the JWT profile for OAuth 2.0 access tokens), and cites the section for every finding.
 
 **Use it in the browser:** [jamalsjones.github.io/jwt-lint](https://jamalsjones.github.io/jwt-lint/). The token is checked in the page and never sent anywhere.
